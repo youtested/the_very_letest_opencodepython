@@ -1,0 +1,6 @@
+{
+  "test_network_resilience.py::test_rate_limit_also_counts_toward_demotion": true,
+  "test_network_resilience.py::test_slow_alive_stream_survives_past_old_read_timeout": true,
+  "test_network_resilience.py::test_wire_timeout_disables_read_but_keeps_connect": true,
+  "test_rotation.py::test_primary_empty_response_does_not_rotate": true
+}
